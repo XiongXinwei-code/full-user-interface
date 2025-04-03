@@ -58,6 +58,10 @@
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
+		<Item Name="Config" Type="Folder">
+			<Item Name="Config.vi" Type="VI" URL="../Config.vi"/>
+			<Item Name="Get Config.vi" Type="VI" URL="../Get Config.vi"/>
+		</Item>
 		<Item Name="Constants" Type="Folder">
 			<Item Name="Module Name--constant.vi" Type="VI" URL="../Module Name--constant.vi"/>
 			<Item Name="Module Timeout--constant.vi" Type="VI" URL="../Module Timeout--constant.vi"/>
@@ -76,10 +80,13 @@
 			<Item Name="Init Module.vi" Type="VI" URL="../Init Module.vi"/>
 			<Item Name="Open VI Panel.vi" Type="VI" URL="../Open VI Panel.vi"/>
 		</Item>
+		<Item Name="Methods" Type="Folder">
+			<Item Name="Build Menu.vi" Type="VI" URL="../Build Menu.vi"/>
+			<Item Name="Launch Test Unit.vi" Type="VI" URL="../Launch Test Unit.vi"/>
+		</Item>
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="Module Data--cluster.ctl" Type="VI" URL="../Module Data--cluster.ctl"/>
 		</Item>
-		<Item Name="Launch Test Unit.vi" Type="VI" URL="../Launch Test Unit.vi"/>
 	</Item>
 	<Item Name="Module Sync" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
