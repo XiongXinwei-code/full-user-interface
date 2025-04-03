@@ -11,9 +11,11 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Modules" Type="Folder">
+			<Item Name="Full User Interface.lvlib" Type="Library" URL="../Libraries/Full User Interface/Full User Interface.lvlib"/>
 			<Item Name="Test Unit.lvlib" Type="Library" URL="../Libraries/Test Unit/Test Unit.lvlib"/>
 		</Item>
 		<Item Name="Testers" Type="Folder">
+			<Item Name="Test Full User Interface API.vi" Type="VI" URL="../Libraries/Full User Interface/Test Full User Interface API.vi"/>
 			<Item Name="Test Test Unit API.vi" Type="VI" URL="../Libraries/Test Unit/Test Test Unit API.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -74,6 +76,7 @@
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Test Executive(API).lvlib" Type="Library" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive(API).lvlib"/>
