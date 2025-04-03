@@ -79,6 +79,7 @@
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="Module Data--cluster.ctl" Type="VI" URL="../Module Data--cluster.ctl"/>
 		</Item>
+		<Item Name="Launch Test Unit.vi" Type="VI" URL="../Launch Test Unit.vi"/>
 	</Item>
 	<Item Name="Module Sync" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
