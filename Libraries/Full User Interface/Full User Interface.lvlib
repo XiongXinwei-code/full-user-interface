@@ -59,8 +59,20 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Config" Type="Folder">
+			<Item Name="Station" Type="Folder">
+				<Item Name="Sub" Type="Folder">
+					<Item Name="Methods" Type="Folder">
+						<Item Name="Station Config to Tree Items.vi" Type="VI" URL="../Station Config to Tree Items.vi"/>
+					</Item>
+					<Item Name="Get Station Config.vi" Type="VI" URL="../Get Station Config.vi"/>
+					<Item Name="Set Station Config.vi" Type="VI" URL="../Set Station Config.vi"/>
+				</Item>
+				<Item Name="Station Config.vi" Type="VI" URL="../Station Config.vi"/>
+			</Item>
 			<Item Name="Config.vi" Type="VI" URL="../Config.vi"/>
 			<Item Name="Get Config.vi" Type="VI" URL="../Get Config.vi"/>
+			<Item Name="Get File Path.vi" Type="VI" URL="../Get File Path.vi"/>
+			<Item Name="Set Config.vi" Type="VI" URL="../Set Config.vi"/>
 		</Item>
 		<Item Name="Constants" Type="Folder">
 			<Item Name="Module Name--constant.vi" Type="VI" URL="../Module Name--constant.vi"/>
@@ -101,6 +113,9 @@
 		<Item Name="Synchronize Caller Events.vi" Type="VI" URL="../Synchronize Caller Events.vi"/>
 		<Item Name="Wait on Event Sync.vi" Type="VI" URL="../Wait on Event Sync.vi"/>
 		<Item Name="Wait on Module Sync.vi" Type="VI" URL="../Wait on Module Sync.vi"/>
+	</Item>
+	<Item Name="Typedef" Type="Folder">
+		<Item Name="Station Config.ctl" Type="VI" URL="../Station Config.ctl"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
