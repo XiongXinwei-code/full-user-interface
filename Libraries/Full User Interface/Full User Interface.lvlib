@@ -62,6 +62,7 @@
 			<Item Name="Station" Type="Folder">
 				<Item Name="Sub" Type="Folder">
 					<Item Name="Methods" Type="Folder">
+						<Item Name="Insert Station Config Item.vi" Type="VI" URL="../Insert Station Config Item.vi"/>
 						<Item Name="Station Config to Tree Items.vi" Type="VI" URL="../Station Config to Tree Items.vi"/>
 					</Item>
 					<Item Name="Get Station Config.vi" Type="VI" URL="../Get Station Config.vi"/>
