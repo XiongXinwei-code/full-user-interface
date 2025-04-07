@@ -18,6 +18,8 @@
 				<Item Name="Show Panel Argument--cluster.ctl" Type="VI" URL="../Show Panel Argument--cluster.ctl"/>
 				<Item Name="Hide Panel Argument--cluster.ctl" Type="VI" URL="../Hide Panel Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
+				<Item Name="Launcher Test Unit Argument--cluster.ctl" Type="VI" URL="../Launcher Test Unit Argument--cluster.ctl"/>
+				<Item Name="Exit Test Unit Argument--cluster.ctl" Type="VI" URL="../Exit Test Unit Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -31,6 +33,8 @@
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Get Module Execution Status.vi" Type="VI" URL="../Get Module Execution Status.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
+			<Item Name="Launcher Test Unit.vi" Type="VI" URL="../Launcher Test Unit.vi"/>
+			<Item Name="Exit Test Unit.vi" Type="VI" URL="../Exit Test Unit.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -59,17 +63,6 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Config" Type="Folder">
-			<Item Name="Station" Type="Folder">
-				<Item Name="Sub" Type="Folder">
-					<Item Name="Methods" Type="Folder">
-						<Item Name="Insert Station Config Item.vi" Type="VI" URL="../Insert Station Config Item.vi"/>
-						<Item Name="Station Config to Tree Items.vi" Type="VI" URL="../Station Config to Tree Items.vi"/>
-					</Item>
-					<Item Name="Get Station Config.vi" Type="VI" URL="../Get Station Config.vi"/>
-					<Item Name="Set Station Config.vi" Type="VI" URL="../Set Station Config.vi"/>
-				</Item>
-				<Item Name="Station Config.vi" Type="VI" URL="../Station Config.vi"/>
-			</Item>
 			<Item Name="Config.vi" Type="VI" URL="../Config.vi"/>
 			<Item Name="Get Config.vi" Type="VI" URL="../Get Config.vi"/>
 			<Item Name="Get File Path.vi" Type="VI" URL="../Get File Path.vi"/>
@@ -96,6 +89,7 @@
 		<Item Name="Methods" Type="Folder">
 			<Item Name="Build Menu.vi" Type="VI" URL="../Build Menu.vi"/>
 			<Item Name="Launch Test Unit.vi" Type="VI" URL="../Launch Test Unit.vi"/>
+			<Item Name="Select Config.vi" Type="VI" URL="../Select Config.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="Module Data--cluster.ctl" Type="VI" URL="../Module Data--cluster.ctl"/>
@@ -117,6 +111,23 @@
 	</Item>
 	<Item Name="Typedef" Type="Folder">
 		<Item Name="Station Config.ctl" Type="VI" URL="../Station Config.ctl"/>
+	</Item>
+	<Item Name="Station Config" Type="Folder">
+		<Item Name="Sub" Type="Folder">
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Item Name="Methods" Type="Folder">
+				<Item Name="Edit Station Config Item.vi" Type="VI" URL="../Edit Station Config Item.vi"/>
+				<Item Name="Insert Station Config Item.vi" Type="VI" URL="../Insert Station Config Item.vi"/>
+				<Item Name="New Station Config (Name).vi" Type="VI" URL="../New Station Config (Name).vi"/>
+				<Item Name="New Station Config Item.vi" Type="VI" URL="../New Station Config Item.vi"/>
+				<Item Name="New Station Config.vi" Type="VI" URL="../New Station Config.vi"/>
+				<Item Name="Remove Station Config Item.vi" Type="VI" URL="../Remove Station Config Item.vi"/>
+				<Item Name="Station Config to Tree Items.vi" Type="VI" URL="../Station Config to Tree Items.vi"/>
+			</Item>
+			<Item Name="Get Station Config.vi" Type="VI" URL="../Get Station Config.vi"/>
+			<Item Name="Set Station Config.vi" Type="VI" URL="../Set Station Config.vi"/>
+		</Item>
+		<Item Name="Station Config.vi" Type="VI" URL="../Station Config.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
