@@ -141,9 +141,15 @@
 		<Item Name="Get Win Handle.vi" Type="VI" URL="../Get Win Handle.vi"/>
 	</Item>
 	<Item Name="Interface" Type="Folder">
+		<Item Name="Yields" Type="Folder">
+			<Item Name="Read Yields.vi" Type="VI" URL="../Read Yields.vi"/>
+			<Item Name="Write Yields.vi" Type="VI" URL="../Write Yields.vi"/>
+			<Item Name="Yields.vi" Type="VI" URL="../Yields.vi"/>
+		</Item>
 		<Item Name="Interface.vi" Type="VI" URL="../Interface.vi"/>
 		<Item Name="Call Interface.vi" Type="VI" URL="../Call Interface.vi"/>
 		<Item Name="Set Parent(MDI).vi" Type="VI" URL="../Set Parent(MDI).vi"/>
+		<Item Name="UUT Result.ctl" Type="VI" URL="../UUT Result.ctl"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

@@ -67,7 +67,6 @@
 		<Item Name="Config" Type="Folder">
 			<Item Name="Config.vi" Type="VI" URL="../Config.vi"/>
 			<Item Name="Get Config.vi" Type="VI" URL="../Get Config.vi"/>
-			<Item Name="Get File Path.vi" Type="VI" URL="../Get File Path.vi"/>
 			<Item Name="Set Config.vi" Type="VI" URL="../Set Config.vi"/>
 		</Item>
 		<Item Name="Constants" Type="Folder">
@@ -128,6 +127,7 @@
 			</Item>
 			<Item Name="Get Station Config.vi" Type="VI" URL="../Get Station Config.vi"/>
 			<Item Name="Set Station Config.vi" Type="VI" URL="../Set Station Config.vi"/>
+			<Item Name="Get File Path.vi" Type="VI" URL="../Get File Path.vi"/>
 		</Item>
 		<Item Name="Station Config.vi" Type="VI" URL="../Station Config.vi"/>
 	</Item>
