@@ -11,3 +11,9 @@
 #### 安装教程
 
 1. 需要安装DQMH和TestBencfFramework两个工具包
+
+#### DQMH下载链接
+
+[Downloads [DQMH Queued Message Handler]](https://wiki.dqmh.org/dqmh/downloads)
+
+
