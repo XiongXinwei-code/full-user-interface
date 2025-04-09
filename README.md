@@ -58,11 +58,11 @@
 #### 如何下载
 
 1. 在仓库代码页面选择“克隆/下载”
-   
-   <img src="file:///D:/Full%20User%20Interface%20(DQMH)/pic/屏幕截图%202025-04-09%20172952.png" title="" alt="屏幕截图 2025-04-09 172952" style="zoom:50%;">
+  
+   <img src="pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-09%20172952.png" title="" alt="屏幕截图 2025-04-09 172952" style="zoom:50%;">
 
 2. 在弹出的窗口选择“下载ZIP”
    
-   <img src="file:///D:/Full%20User%20Interface%20(DQMH)/pic/屏幕截图%202025-04-09%20173057.png" title="" alt="屏幕截图 2025-04-09 173057" style="zoom:67%;">
+   <img src="pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-09%20173057.png" title="" alt="屏幕截图 2025-04-09 173057" style="zoom:67%;">
 
 
