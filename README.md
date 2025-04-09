@@ -48,12 +48,10 @@
 #### 软件使用说明
 
 - 用户开发的所有程序必须放在“External interactions”文件夹中。
-  
   <img title="" src="pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-09%20151930.png" alt="屏幕截图 2025-04-09 151930" style="zoom:50%;">
 
 - 用户只需要在“External interactions.vi”中添加程序，主要是PLC交互程序和MES交互程序。
-  
-  <img title="" src="file:///D:/Full%20User%20Interface%20(DQMH)/pic/屏幕截图%202025-04-09%20152935.png" alt="屏幕截图 2025-04-09 152935" style="zoom:33%;">
+  <img title="" src="pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-09%20152935.png" alt="屏幕截图 2025-04-09 152935" style="zoom:33%;">
 
 - 如果需要更新升级上位机软件只需要将新版本的“Full User Interface”和“Test Unit”模块文件夹替换到项目中即可。
-  <img src="file:///D:/Full%20User%20Interface%20(DQMH)/pic/屏幕截图%202025-04-09%20153601.png" title="" alt="屏幕截图 2025-04-09 153601" style="zoom:67%;">
+  <img src="pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-09%20153601.png" title="" alt="屏幕截图 2025-04-09 153601" style="zoom:67%;">
