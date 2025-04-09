@@ -10,6 +10,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="External interactions" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="External interactions.vi" Type="VI" URL="../Libraries/External interactions/External interactions.vi"/>
+		</Item>
 		<Item Name="Modules" Type="Folder">
 			<Item Name="Full User Interface.lvlib" Type="Library" URL="../Libraries/Full User Interface/Full User Interface.lvlib"/>
 			<Item Name="Test Unit.lvlib" Type="Library" URL="../Libraries/Test Unit/Test Unit.lvlib"/>
@@ -491,6 +495,46 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="Full User Interface F210" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{F443894A-86E7-4798-89C1-BCD4CA55052D}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{0D2F3A03-FD9A-4770-92E1-C2BC3946BBFC}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{17397313-F6F0-4058-9F24-856CF04C30B0}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Full User Interface F210</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Full User Interface F210/App</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{12B62E5F-2A50-4B84-99F7-FBC59E1F8BE3}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Full User Interface F210.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../Full User Interface F210/App/Full User Interface F210.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../Full User Interface F210/App/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E7B5995F-259E-4E01-B833-387AE1213C4D}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Launcher.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Full User Interface F210</Property>
+				<Property Name="TgtF_internalName" Type="Str">Full User Interface F210</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright ?2025 </Property>
+				<Property Name="TgtF_productName" Type="Str">Full User Interface F210</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{6A5D6E77-DD6B-40A3-BBCD-F7B0BE217C57}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Full User Interface F210.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
+		</Item>
 	</Item>
 </Project>

@@ -149,6 +149,8 @@
 		<Item Name="Interface.vi" Type="VI" URL="../Interface.vi"/>
 		<Item Name="Call Interface.vi" Type="VI" URL="../Call Interface.vi"/>
 		<Item Name="Set Parent(MDI).vi" Type="VI" URL="../Set Parent(MDI).vi"/>
+	</Item>
+	<Item Name="Typedef" Type="Folder">
 		<Item Name="UUT Result.ctl" Type="VI" URL="../UUT Result.ctl"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">

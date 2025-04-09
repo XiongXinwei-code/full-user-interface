@@ -90,6 +90,7 @@
 		<Item Name="Methods" Type="Folder">
 			<Item Name="Build Menu.vi" Type="VI" URL="../Build Menu.vi"/>
 			<Item Name="Launch Test Unit.vi" Type="VI" URL="../Launch Test Unit.vi"/>
+			<Item Name="ReBuild Menu.vi" Type="VI" URL="../ReBuild Menu.vi"/>
 			<Item Name="Select Config.vi" Type="VI" URL="../Select Config.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
@@ -130,6 +131,9 @@
 			<Item Name="Get File Path.vi" Type="VI" URL="../Get File Path.vi"/>
 		</Item>
 		<Item Name="Station Config.vi" Type="VI" URL="../Station Config.vi"/>
+	</Item>
+	<Item Name="External interactions" Type="Folder">
+		<Item Name="Call External Interactions.vi" Type="VI" URL="../Call External Interactions.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
