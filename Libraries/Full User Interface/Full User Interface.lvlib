@@ -21,6 +21,7 @@
 				<Item Name="Launcher Test Unit Argument--cluster.ctl" Type="VI" URL="../Launcher Test Unit Argument--cluster.ctl"/>
 				<Item Name="Exit Test Unit Argument--cluster.ctl" Type="VI" URL="../Exit Test Unit Argument--cluster.ctl"/>
 				<Item Name="Load Seq Argument--cluster.ctl" Type="VI" URL="../Load Seq Argument--cluster.ctl"/>
+				<Item Name="Send UUT Result Argument--cluster.ctl" Type="VI" URL="../Send UUT Result Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -37,6 +38,7 @@
 			<Item Name="Launcher Test Unit.vi" Type="VI" URL="../Launcher Test Unit.vi"/>
 			<Item Name="Exit Test Unit.vi" Type="VI" URL="../Exit Test Unit.vi"/>
 			<Item Name="Load Seq.vi" Type="VI" URL="../Load Seq.vi"/>
+			<Item Name="Send UUT Result.vi" Type="VI" URL="../Send UUT Result.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
