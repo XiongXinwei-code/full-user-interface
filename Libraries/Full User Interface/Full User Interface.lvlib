@@ -95,6 +95,7 @@
 			<Item Name="Launch Test Unit.vi" Type="VI" URL="../Launch Test Unit.vi"/>
 			<Item Name="ReBuild Menu.vi" Type="VI" URL="../ReBuild Menu.vi"/>
 			<Item Name="Select Config.vi" Type="VI" URL="../Select Config.vi"/>
+			<Item Name="Set Run State Windows Pos.vi" Type="VI" URL="../Set Run State Windows Pos.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="Module Data--cluster.ctl" Type="VI" URL="../Module Data--cluster.ctl"/>
