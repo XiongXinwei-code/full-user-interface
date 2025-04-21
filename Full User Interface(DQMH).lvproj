@@ -516,6 +516,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F88DD51F-E5C7-4CD5-9DD1-DCEA4E9EA569}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Full User Interface.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../App/Full User Interface.exe</Property>

@@ -91,6 +91,9 @@
 			<Item Name="Open VI Panel.vi" Type="VI" URL="../Open VI Panel.vi"/>
 		</Item>
 		<Item Name="Methods" Type="Folder">
+			<Item Name="User" Type="Folder">
+				<Item Name="Login.vi" Type="VI" URL="../Login.vi"/>
+			</Item>
 			<Item Name="Build Menu.vi" Type="VI" URL="../Build Menu.vi"/>
 			<Item Name="Launch Test Unit.vi" Type="VI" URL="../Launch Test Unit.vi"/>
 			<Item Name="ReBuild Menu.vi" Type="VI" URL="../ReBuild Menu.vi"/>
