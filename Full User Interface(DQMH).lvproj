@@ -478,23 +478,69 @@
 			<Item Name="Advapi32.dll" Type="Document" URL="Advapi32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Error Reported(Test Unit).vi" Type="VI" URL="../Libraries/Full User Interface/Error Reported(Test Unit).vi"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Launcher (SubVI).vi" Type="VI" URL="../Libraries/Launcher (SubVI).vi"/>
+			<Item Name="Module Did Stop(Test Unit).vi" Type="VI" URL="../Libraries/Full User Interface/Module Did Stop(Test Unit).vi"/>
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Send VI Ref.vi" Type="VI" URL="../Libraries/Full User Interface/Send VI Ref.vi"/>
+			<Item Name="Status Upload(Test Unit).vi" Type="VI" URL="../Libraries/Full User Interface/Status Upload(Test Unit).vi"/>
 			<Item Name="System.Drawing" Type="Document" URL="System.Drawing">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Update Module Execution Status(Test Unit).vi" Type="VI" URL="../Libraries/Full User Interface/Update Module Execution Status(Test Unit).vi"/>
 			<Item Name="user32.dll" Type="Document" URL="user32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="Full User Interface(DQMH)" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{D982AE6C-3BDF-427B-8EF1-A1FCA4F1497A}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{539424F0-41A5-41EC-956E-6F65BA78C9EC}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{9DB47EE9-6073-42A7-A02C-CE37CAA7258C}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Full User Interface(DQMH)</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../App</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{F88DD51F-E5C7-4CD5-9DD1-DCEA4E9EA569}</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Full User Interface.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../App/Full User Interface.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../App/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{4A2B2DAA-867D-4A6D-96DF-F991687C64E2}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Launcher.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Full User Interface(DQMH)</Property>
+				<Property Name="TgtF_internalName" Type="Str">Full User Interface(DQMH)</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright ?2025 </Property>
+				<Property Name="TgtF_productName" Type="Str">Full User Interface(DQMH)</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{EACA7631-2644-4CD0-B08A-554C7CD6F22A}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Full User Interface.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
+		</Item>
 	</Item>
 </Project>
