@@ -1,0 +1,57 @@
+2025/04/22 10:59:12.186: Full User Interface Did Stop.
+2025/04/22 10:58:58.595: Full User Interface: Exit
+2025/04/22 10:58:52.423: Test Unit 2: Error 7 occurred at Test Executive.lvlibp:Test Executive Manage.lvclass:Load Sequence.vi:840001    Possible reason(s):   LabVIEW: (Hex 0x7) File not found. The file might be in a different location or deleted. Use the command prompt or the file explorer to verify that the path is correct. ========================= Nonexistent GPIB interface.    Complete call chain:       Test Executive.lvlibp:Test Executive Manage.lvclass:Load Sequence.vi:840001       Test Executive(API).lvlib:Load Sequence.vi       Test Unit.lvlib:Main.vi:4140016       Test Unit.lvlib:Main.vi.ACBRProxyCaller.5CF0062B<DQMH>MHL Frame: Load Sequence</DQMH> Additional Information: MHL Frame: Load Sequence
+2025/04/22 10:58:52.409: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/22 10:58:52.063: Test Unit 2: Load Sequence Sensata1.xseq
+2025/04/22 10:58:51.820: Test Unit 2 initialization succeeded.
+2025/04/22 10:58:51.745: Test Unit 2: Panel shown.
+2025/04/22 10:58:51.023: Test Unit 1 initialization succeeded.
+2025/04/22 10:58:50.926: Full User Interface: Panel shown.
+2025/04/22 10:58:50.855: Full User Interface initialization succeeded.
+2025/04/22 10:38:42.484: Full User Interface Did Stop.
+2025/04/22 10:38:07.415: Full User Interface: Exit
+2025/04/22 10:38:07.260: Test Unit 2: Error 7 occurred at Test Executive.lvlibp:Test Executive Manage.lvclass:Load Sequence.vi:840001    Possible reason(s):   LabVIEW: (Hex 0x7) File not found. The file might be in a different location or deleted. Use the command prompt or the file explorer to verify that the path is correct. ========================= Nonexistent GPIB interface.    Complete call chain:       Test Executive.lvlibp:Test Executive Manage.lvclass:Load Sequence.vi:840001       Test Executive(API).lvlib:Load Sequence.vi       Test Unit.lvlib:Main.vi:4140016       Test Unit.lvlib:Main.vi.ACBRProxyCaller.A55001F0<DQMH>MHL Frame: Load Sequence</DQMH> Additional Information: MHL Frame: Load Sequence
+2025/04/22 10:38:07.248: Test Unit 2: Load Sequence Sensata1.xseq
+2025/04/22 10:38:06.894: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/22 10:38:06.668: Test Unit 2 initialization succeeded.
+2025/04/22 10:38:06.547: Test Unit 2: Panel shown.
+2025/04/22 10:38:06.044: Test Unit 1 initialization succeeded.
+2025/04/22 10:38:06.003: Test Unit 1: All clones have stopped. Proceeding to destroy event references.
+2025/04/22 10:38:05.981: Test Unit 1 Did Stop.
+2025/04/22 10:38:05.956: Test Unit 1: Will wait until no other clones are running to destroy event references.
+2025/04/22 10:37:42.988: Test Unit 2 Did Stop.
+2025/04/22 10:37:39.746: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/22 10:37:39.429: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/22 10:37:39.167: Test Unit 2 initialization succeeded.
+2025/04/22 10:37:39.085: Test Unit 2: Panel shown.
+2025/04/22 10:37:38.833: Test Unit 1 initialization succeeded.
+2025/04/22 10:37:38.791: Test Unit 1: All clones have stopped. Proceeding to destroy event references.
+2025/04/22 10:37:38.604: Test Unit 1 Did Stop.
+2025/04/22 10:37:38.593: Test Unit 1: Will wait until no other clones are running to destroy event references.
+2025/04/22 10:37:34.914: Test Unit 2 Did Stop.
+2025/04/22 10:37:34.903: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/22 10:37:34.586: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/22 10:37:34.309: Test Unit 2 initialization succeeded.
+2025/04/22 10:37:34.226: Test Unit 2: Panel shown.
+2025/04/22 10:37:33.499: Test Unit 1 initialization succeeded.
+2025/04/22 10:37:33.396: Full User Interface: Panel shown.
+2025/04/22 10:37:33.355: Full User Interface initialization succeeded.
+2025/04/22 10:17:31.652: Full User Interface Did Stop.
+2025/04/22 10:14:29.068: Full User Interface: Exit
+2025/04/22 10:14:26.582: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/22 10:14:26.233: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/22 10:14:25.981: Test Unit 2 initialization succeeded.
+2025/04/22 10:14:25.893: Test Unit 2: Panel shown.
+2025/04/22 10:14:25.209: Test Unit 1 initialization succeeded.
+2025/04/22 10:14:25.153: Full User Interface: Panel shown.
+2025/04/22 10:14:25.103: Full User Interface initialization succeeded.
+2025/04/22 10:12:59.891: Full User Interface Did Stop.
+2025/04/22 10:12:58.540: Full User Interface: Exit
+2025/04/22 10:12:58.529: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/22 10:12:58.208: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/22 10:12:57.968: Test Unit 2 initialization succeeded.
+2025/04/22 10:12:57.886: Test Unit 2: Panel shown.
+2025/04/22 10:12:57.212: Test Unit 1 initialization succeeded.
+
+2025/04/22 10:12:57.150: Full User Interface: Panel shown.
+2025/04/22 10:12:57.093: Full User Interface initialization succeeded.
