@@ -123,6 +123,7 @@
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
+				<Item Name="LVMenuShortCut.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVMenuShortCut.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
@@ -174,6 +175,7 @@
 					<Item Name="Add Tree Items.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/TestEngine/Test Executive/Add Tree Items.vi"/>
 					<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/vi.lib/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
 					<Item Name="AddNamedSemaphorePrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/vi.lib/Utility/semaphor.llb/AddNamedSemaphorePrefix.vi"/>
+					<Item Name="Administrator User.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/Editor/User Management/User Manager/Administrator User.vi"/>
 					<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/vi.lib/Utility/file.llb/Application Directory.vi"/>
 					<Item Name="Array of VData to VArray__ogtk.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/user.lib/_OpenG.lib/lvdata/lvdata.llb/Array of VData to VArray__ogtk.vi"/>
 					<Item Name="Array of VData to VCluster__ogtk.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/user.lib/_OpenG.lib/lvdata/lvdata.llb/Array of VData to VCluster__ogtk.vi"/>
@@ -250,6 +252,7 @@
 					<Item Name="Get Default Data from TD__ogtk.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get Default Data from TD__ogtk.vi"/>
 					<Item Name="Get Element TD from Array TD__ogtk.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get Element TD from Array TD__ogtk.vi"/>
 					<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/vi.lib/Utility/libraryn.llb/Get File Extension.vi"/>
+					<Item Name="Get File Path.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/Editor/User Management/User Manager/Get File Path.vi"/>
 					<Item Name="Get Header from TD__ogtk.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get Header from TD__ogtk.vi"/>
 					<Item Name="Get Last PString__ogtk.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get Last PString__ogtk.vi"/>
 					<Item Name="Get LV Class Default Value.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/vi.lib/Utility/LVClass/Get LV Class Default Value.vi"/>
@@ -264,6 +267,7 @@
 					<Item Name="Get TDEnum from Data__ogtk.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get TDEnum from Data__ogtk.vi"/>
 					<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/vi.lib/picture/picture.llb/Get Text Rect.vi"/>
 					<Item Name="Get Type Code from I16 Array And Pos.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/Get Type Code from I16 Array And Pos.vi"/>
+					<Item Name="Get User Info.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/Editor/User Management/User Manager/Get User Info.vi"/>
 					<Item Name="Get Variable Group.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/Editor/Share/Get Variable Group.vi"/>
 					<Item Name="Get Variant Attributes__ogtk.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get Variant Attributes__ogtk.vi"/>
 					<Item Name="Get Waveform Type Enum from TD__ogtk.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/user.lib/_OpenG.lib/lvdata/lvdata.llb/Get Waveform Type Enum from TD__ogtk.vi"/>
@@ -428,6 +432,7 @@
 					<Item Name="Str to Setting(Test).vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/Editor/Share/Str to Setting(Test).vi"/>
 					<Item Name="Str to Setting(Wait).vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/Editor/Share/Str to Setting(Wait).vi"/>
 					<Item Name="STR_ASCII-Unicode.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/vi.lib/registry/registry.llb/STR_ASCII-Unicode.vi"/>
+					<Item Name="String to Character Array__ogtk.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/user.lib/_OpenG.lib/string/string.llb/String to Character Array__ogtk.vi"/>
 					<Item Name="Strip Path - Traditional__ogtk.vi" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/user.lib/_OpenG.lib/file/file.llb/Strip Path - Traditional__ogtk.vi"/>
 					<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/vi.lib/Utility/sysdir.llb/System Directory Type.ctl"/>
 					<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Test Bench Framework/Test Executive.lvlibp/1abvi3w/vi.lib/Utility/error.llb/TagReturnType.ctl"/>
@@ -531,7 +536,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F88DD51F-E5C7-4CD5-9DD1-DCEA4E9EA569}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Full User Interface.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../App/Full User Interface.exe</Property>
