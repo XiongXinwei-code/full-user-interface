@@ -37,7 +37,7 @@
 <NumElts>2</NumElts>
 <Path>
 <Name>SeqFilename</Name>
-<Val>D:\用户界面\Sensata1.xseq</Val>
+<Val>D:\用户界面\Sensata.xseq</Val>
 </Path>
 <I32>
 <Name>NumberOfSocket</Name>
@@ -48,6 +48,7 @@
 </Map>
 </KeyValPair>
 </Map>
+
 on</Name>
 <Val>2</Val>
 </I32>

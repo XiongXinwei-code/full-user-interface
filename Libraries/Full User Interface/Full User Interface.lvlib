@@ -91,11 +91,10 @@
 			<Item Name="Open VI Panel.vi" Type="VI" URL="../Open VI Panel.vi"/>
 		</Item>
 		<Item Name="Methods" Type="Folder">
-			<Item Name="User" Type="Folder">
-				<Item Name="Login.vi" Type="VI" URL="../Login.vi"/>
-			</Item>
 			<Item Name="Build Menu.vi" Type="VI" URL="../Build Menu.vi"/>
 			<Item Name="Launch Test Unit.vi" Type="VI" URL="../Launch Test Unit.vi"/>
+			<Item Name="Login.vi" Type="VI" URL="../Login.vi"/>
+			<Item Name="Logout.vi" Type="VI" URL="../Logout.vi"/>
 			<Item Name="ReBuild Menu.vi" Type="VI" URL="../ReBuild Menu.vi"/>
 			<Item Name="Select Config.vi" Type="VI" URL="../Select Config.vi"/>
 			<Item Name="Set Run State Windows Pos.vi" Type="VI" URL="../Set Run State Windows Pos.vi"/>
