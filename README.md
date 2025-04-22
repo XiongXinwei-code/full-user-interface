@@ -11,10 +11,8 @@
 #### 安装教程
 
 1. 需要安装DQMH和TestBencfFramework两个工具包
-
-#### DQMH下载链接
-
-[Downloads [DQMH Queued Message Handler]](https://wiki.dqmh.org/dqmh/downloads)
+   
+   DQMH下载链接：[Downloads [DQMH Queued Message Handler]](https://wiki.dqmh.org/dqmh/downloads)
 
 #### 程序启动流程介绍
 
@@ -44,9 +42,7 @@
 #### 软件使用说明
 
 - 工站配置
-  
   工站配置是用来保存被测产品与序列对应关系的问题，在换型的时候需要用到这个文件。
-  
   目前换型的方式有两种一种是通过软件菜单手动选择型号，另外一种是在程序里通过调用换型的API来自动换型，例如PLC换型或者扫码换型。
   
   <img title="" src="pic/工站配置.png" alt="loading-ag-178" style="zoom:67%;">
@@ -67,10 +63,10 @@
 
 #### 如何下载
 
-1. 在仓库代码页面选择“克隆/下载”
+1. 在仓库代码页面选择最新的发行版本
    
-   <img src="pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-09%20172952.png" title="" alt="屏幕截图 2025-04-09 172952" style="zoom:50%;">
+   <img title="" src="pic/屏幕截图 2025-04-22 171209.png" alt="loading-ag-158" style="zoom:50%;">
 
-2. 在弹出的窗口选择“下载ZIP”
+2. 在发行版页面中选择下载ZIP文件
    
-   <img src="pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-09%20173057.png" title="" alt="屏幕截图 2025-04-09 173057" style="zoom:67%;">
+   <img title="" src="pic/屏幕截图 2025-04-22 171611.png" alt="loading-ag-160" style="zoom:50%;">
