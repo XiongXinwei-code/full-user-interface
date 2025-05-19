@@ -1,0 +1,48 @@
+2025/05/06 15:58:16.424: Full User Interface Did Stop.
+2025/05/06 14:21:29.454: Full User Interface: Exit
+2025/05/06 14:19:41.162: Test Unit 3: Load Sequence Sequence.xseq
+2025/05/06 14:19:41.150: Test Unit 4: Load Sequence Sequence.xseq
+2025/05/06 14:19:41.141: Test Unit 2: Load Sequence Sequence.xseq
+2025/05/06 14:19:41.128: Test Unit 1: Load Sequence Sequence.xseq
+2025/05/06 14:19:40.802: Full User Interface: Switch Product 1
+2025/05/06 14:19:40.575: Test Unit 4 initialization succeeded.
+2025/05/06 14:19:40.493: Test Unit 4: Panel shown.
+2025/05/06 14:19:40.266: Test Unit 3 initialization succeeded.
+2025/05/06 14:19:40.181: Test Unit 3: Panel shown.
+2025/05/06 14:19:39.946: Test Unit 2 initialization succeeded.
+2025/05/06 14:19:39.863: Test Unit 2: Panel shown.
+2025/05/06 14:19:39.149: Test Unit 1 initialization succeeded.
+2025/05/06 14:19:39.087: Full User Interface: Panel shown.
+2025/05/06 14:19:39.050: Full User Interface initialization succeeded.
+2025/05/06 09:41:57.036: Full User Interface Did Stop.
+2025/05/06 09:40:32.616: Full User Interface: Exit
+2025/05/06 09:40:32.606: Test Unit 4: Load Sequence Sequence.xseq
+2025/05/06 09:40:32.597: Test Unit 3: Load Sequence Sequence.xseq
+2025/05/06 09:40:32.587: Test Unit 2: Load Sequence Sequence.xseq
+2025/05/06 09:40:32.576: Test Unit 1: Load Sequence Sequence.xseq
+2025/05/06 09:40:32.249: Full User Interface: Switch Product 1
+2025/05/06 09:40:32.025: Test Unit 4 initialization succeeded.
+2025/05/06 09:40:31.964: Test Unit 4: Panel shown.
+2025/05/06 09:40:31.745: Test Unit 3 initialization succeeded.
+2025/05/06 09:40:31.675: Test Unit 3: Panel shown.
+2025/05/06 09:40:31.451: Test Unit 2 initialization succeeded.
+2025/05/06 09:40:31.383: Test Unit 2: Panel shown.
+2025/05/06 09:40:30.345: Test Unit 1 initialization succeeded.
+2025/05/06 09:40:30.274: Full User Interface: Panel shown.
+2025/05/06 09:40:30.208: Full User Interface initialization succeeded.
+2025/05/06 09:12:09.455: Full User Interface Did Stop.
+2025/05/06 09:11:26.683: Full User Interface: Exit
+2025/05/06 09:11:26.674: Test Unit 4: Load Sequence Sequence.xseq
+2025/05/06 09:11:26.665: Test Unit 3: Load Sequence Sequence.xseq
+2025/05/06 09:11:26.657: Test Unit 2: Load Sequence Sequence.xseq
+2025/05/06 09:11:26.647: Test Unit 1: Load Sequence Sequence.xseq
+2025/05/06 09:11:26.321: Full User Interface: Switch Product 1
+2025/05/06 09:11:26.088: Test Unit 4 initialization succeeded.
+2025/05/06 09:11:26.016: Test Unit 4: Panel shown.
+2025/05/06 09:11:25.793: Test Unit 3 initialization succeeded.
+2025/05/06 09:11:25.712: Test Unit 3: Panel shown.
+2025/05/06 09:11:25.468: Test Unit 2 initialization succeeded.
+2025/05/06 09:11:25.401: Test Unit 2: Panel shown.
+2025/05/06 09:11:24.338: Test Unit 1 initialization succeeded.
+2025/05/06 09:11:24.261: Full User Interface: Panel shown.
+2025/05/06 09:11:24.212: Full User Interface initialization succeeded.

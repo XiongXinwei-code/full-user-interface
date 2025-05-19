@@ -1,0 +1,245 @@
+2025/04/29 16:31:52.864: Full User Interface Did Stop.
+2025/04/29 16:01:50.415: Full User Interface: Exit
+2025/04/29 16:01:50.391: Test Unit 4: Load Sequence Sequence.xseq
+2025/04/29 16:01:50.368: Test Unit 3: Load Sequence Sequence.xseq
+2025/04/29 16:01:50.314: Test Unit 2: Load Sequence Sequence.xseq
+2025/04/29 16:01:50.301: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/29 16:01:49.987: Full User Interface: Switch Product 1
+2025/04/29 16:01:49.782: Test Unit 4 initialization succeeded.
+2025/04/29 16:01:49.714: Test Unit 4: Panel shown.
+2025/04/29 16:01:49.506: Test Unit 3 initialization succeeded.
+2025/04/29 16:01:49.425: Test Unit 3: Panel shown.
+2025/04/29 16:01:49.201: Test Unit 2 initialization succeeded.
+2025/04/29 16:01:49.131: Test Unit 2: Panel shown.
+2025/04/29 16:01:48.587: Test Unit 1 initialization succeeded.
+2025/04/29 16:01:48.525: Full User Interface: Panel shown.
+2025/04/29 16:01:48.478: Full User Interface initialization succeeded.
+2025/04/29 15:51:35.859: Full User Interface Did Stop.
+2025/04/29 15:50:10.573: Full User Interface: Exit
+2025/04/29 15:50:10.528: Test Unit 4: Load Sequence Sequence.xseq
+2025/04/29 15:50:10.516: Test Unit 3: Load Sequence Sequence.xseq
+2025/04/29 15:50:10.428: Test Unit 2: Load Sequence Sequence.xseq
+2025/04/29 15:50:10.414: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/29 15:50:10.096: Full User Interface: Switch Product 1
+2025/04/29 15:50:09.887: Test Unit 4 initialization succeeded.
+2025/04/29 15:50:09.814: Test Unit 4: Panel shown.
+2025/04/29 15:50:09.606: Test Unit 3 initialization succeeded.
+2025/04/29 15:50:09.530: Test Unit 3: Panel shown.
+2025/04/29 15:50:09.312: Test Unit 2 initialization succeeded.
+2025/04/29 15:50:09.238: Test Unit 2: Panel shown.
+2025/04/29 15:50:08.711: Test Unit 1 initialization succeeded.
+2025/04/29 15:50:08.656: Full User Interface: Panel shown.
+2025/04/29 15:50:08.608: Full User Interface initialization succeeded.
+2025/04/29 15:48:25.626: Full User Interface Did Stop.
+2025/04/29 15:37:14.828: Full User Interface: Exit
+2025/04/29 15:37:14.784: Test Unit 1: Test completed
+2025/04/29 15:37:14.691: Test Unit 3: Test completed
+2025/04/29 15:37:14.585: Test Unit 2: Test completed
+2025/04/29 15:37:12.193: Test Unit 4: Test completed
+2025/04/29 15:37:12.172: Test Unit 1: Socket0 Start Test
+2025/04/29 15:37:12.147: Test Unit 3: Socket0 Start Test
+2025/04/29 15:37:12.136: Test Unit 2: Socket0 Start Test
+2025/04/29 15:37:07.787: Test Unit 4: Socket0 Start Test
+2025/04/29 15:37:07.778: Test Unit 1: Write SN
+2025/04/29 15:37:07.767: Test Unit 2: Write SN
+2025/04/29 15:37:07.756: Test Unit 3: Write SN
+2025/04/29 15:36:49.275: Test Unit 4: Write SN
+2025/04/29 15:36:49.262: Test Unit 2: Load Sequence Sequence.xseq
+2025/04/29 15:36:49.244: Test Unit 4: Load Sequence Sequence.xseq
+2025/04/29 15:36:49.210: Test Unit 3: Load Sequence Sequence.xseq
+2025/04/29 15:36:49.198: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/29 15:36:48.880: Full User Interface: Switch Product 1
+2025/04/29 15:36:48.661: Test Unit 4 initialization succeeded.
+2025/04/29 15:36:48.601: Test Unit 4: Panel shown.
+2025/04/29 15:36:48.381: Test Unit 3 initialization succeeded.
+2025/04/29 15:36:48.317: Test Unit 3: Panel shown.
+2025/04/29 15:36:48.098: Test Unit 2 initialization succeeded.
+2025/04/29 15:36:48.034: Test Unit 2: Panel shown.
+2025/04/29 15:36:47.473: Test Unit 1 initialization succeeded.
+2025/04/29 15:36:47.383: Full User Interface: Panel shown.
+2025/04/29 15:36:47.321: Full User Interface initialization succeeded.
+2025/04/29 15:13:51.231: Full User Interface Did Stop.
+2025/04/29 15:13:29.227: Full User Interface: Exit
+2025/04/29 15:13:29.134: Test Unit 4: Test completed
+2025/04/29 15:13:29.057: Test Unit 2: Test completed
+2025/04/29 15:13:28.938: Test Unit 3: Test completed
+2025/04/29 15:13:26.464: Test Unit 1: Test completed
+2025/04/29 15:13:26.428: Test Unit 1: Socket0 Start Test
+2025/04/29 15:13:26.417: Test Unit 2: Socket0 Start Test
+2025/04/29 15:13:26.391: Test Unit 3: Socket0 Start Test
+2025/04/29 15:13:11.415: Test Unit 4: Socket0 Start Test
+2025/04/29 15:13:11.351: Test Unit 4: Test completed
+2025/04/29 15:13:11.257: Test Unit 1: Test completed
+2025/04/29 15:13:11.131: Test Unit 2: Test completed
+2025/04/29 15:13:08.673: Test Unit 3: Test completed
+2025/04/29 15:13:08.655: Test Unit 1: Socket0 Start Test
+2025/04/29 15:13:08.642: Test Unit 4: Socket0 Start Test
+2025/04/29 15:13:08.618: Test Unit 3: Socket0 Start Test
+2025/04/29 15:12:36.138: Test Unit 2: Socket0 Start Test
+2025/04/29 15:12:36.073: Test Unit 4: Test completed
+2025/04/29 15:12:35.929: Test Unit 1: Test completed
+2025/04/29 15:12:35.833: Test Unit 3: Test completed
+2025/04/29 15:12:33.426: Test Unit 2: Test completed
+2025/04/29 15:12:33.396: Test Unit 1: Socket0 Start Test
+2025/04/29 15:12:33.378: Test Unit 2: Socket0 Start Test
+2025/04/29 15:12:33.355: Test Unit 4: Socket0 Start Test
+2025/04/29 15:12:20.841: Test Unit 3: Socket0 Start Test
+2025/04/29 15:12:20.778: Test Unit 3: Test completed
+2025/04/29 15:12:20.630: Test Unit 1: Test completed
+2025/04/29 15:12:20.538: Test Unit 4: Test completed
+2025/04/29 15:12:18.127: Test Unit 2: Test completed
+2025/04/29 15:12:18.094: Test Unit 1: Socket0 Start Test
+2025/04/29 15:12:18.083: Test Unit 4: Socket0 Start Test
+2025/04/29 15:12:18.061: Test Unit 2: Socket0 Start Test
+2025/04/29 15:12:17.668: Test Unit 3: Socket0 Start Test
+2025/04/29 15:12:17.659: Test Unit 1: Write SN
+2025/04/29 15:12:17.648: Test Unit 2: Write SN
+2025/04/29 15:12:17.636: Test Unit 3: Write SN
+2025/04/29 15:12:07.956: Test Unit 4: Write SN
+2025/04/29 15:12:07.937: Test Unit 4: Load Sequence Sequence.xseq
+2025/04/29 15:12:07.906: Test Unit 3: Load Sequence Sequence.xseq
+2025/04/29 15:12:07.848: Test Unit 2: Load Sequence Sequence.xseq
+2025/04/29 15:12:07.835: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/29 15:12:07.491: Full User Interface: Switch Product 1
+2025/04/29 15:12:07.266: Test Unit 4 initialization succeeded.
+2025/04/29 15:12:07.199: Test Unit 4: Panel shown.
+2025/04/29 15:12:06.990: Test Unit 3 initialization succeeded.
+2025/04/29 15:12:06.911: Test Unit 3: Panel shown.
+2025/04/29 15:12:06.694: Test Unit 2 initialization succeeded.
+2025/04/29 15:12:06.623: Test Unit 2: Panel shown.
+2025/04/29 15:12:06.023: Test Unit 1 initialization succeeded.
+2025/04/29 15:12:05.937: Full User Interface: Panel shown.
+2025/04/29 15:12:05.858: Full User Interface initialization succeeded.
+2025/04/29 14:44:35.085: Full User Interface Did Stop.
+2025/04/29 14:41:15.371: Full User Interface: Exit
+2025/04/29 14:41:15.237: Test Unit 3: Test completed
+2025/04/29 14:41:15.068: Test Unit 4: Test completed
+2025/04/29 14:41:14.922: Test Unit 2: Test completed
+2025/04/29 14:41:12.369: Test Unit 1: Test completed
+2025/04/29 14:41:12.333: Test Unit 1: Socket0 Start Test
+2025/04/29 14:41:12.297: Test Unit 2: Socket0 Start Test
+2025/04/29 14:41:12.265: Test Unit 3: Socket0 Start Test
+2025/04/29 14:41:10.201: Test Unit 4: Socket0 Start Test
+2025/04/29 14:41:10.190: Test Unit 2: Write SN
+2025/04/29 14:41:10.177: Test Unit 1: Write SN
+2025/04/29 14:41:10.165: Test Unit 4: Write SN
+2025/04/29 14:41:06.688: Test Unit 3: Write SN
+2025/04/29 14:41:06.673: Test Unit 4: Load Sequence Sequence.xseq
+2025/04/29 14:41:06.640: Test Unit 3: Load Sequence Sequence.xseq
+2025/04/29 14:41:06.550: Test Unit 2: Load Sequence Sequence.xseq
+2025/04/29 14:41:06.535: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/29 14:41:06.214: Full User Interface: Switch Product 1
+2025/04/29 14:41:05.960: Test Unit 4 initialization succeeded.
+2025/04/29 14:41:05.862: Test Unit 4: Panel shown.
+2025/04/29 14:41:05.581: Test Unit 3 initialization succeeded.
+2025/04/29 14:41:05.462: Test Unit 3: Panel shown.
+2025/04/29 14:41:05.147: Test Unit 2 initialization succeeded.
+2025/04/29 14:41:05.025: Test Unit 2: Panel shown.
+2025/04/29 14:41:04.016: Test Unit 1 initialization succeeded.
+2025/04/29 14:41:03.866: Full User Interface: Panel shown.
+2025/04/29 14:41:03.801: Full User Interface initialization succeeded.
+2025/04/29 13:30:20.912: Full User Interface Did Stop.
+2025/04/29 13:25:03.048: Full User Interface: Exit
+2025/04/29 13:25:02.991: Test Unit 1: Test completed
+2025/04/29 13:25:02.835: Test Unit 2: Test completed
+2025/04/29 13:25:02.783: Test Unit 4: Test completed
+2025/04/29 13:25:00.333: Test Unit 3: Test completed
+2025/04/29 13:25:00.315: Test Unit 2: Socket0 Start Test
+2025/04/29 13:25:00.299: Test Unit 1: Socket0 Start Test
+2025/04/29 13:25:00.277: Test Unit 3: Socket0 Start Test
+2025/04/29 13:24:59.351: Test Unit 4: Socket0 Start Test
+2025/04/29 13:24:59.341: Test Unit 2: Write SN
+2025/04/29 13:24:59.331: Test Unit 1: Write SN
+2025/04/29 13:24:59.320: Test Unit 3: Write SN
+2025/04/29 13:23:16.269: Test Unit 4: Write SN
+2025/04/29 13:23:16.257: Test Unit 3: Load Sequence Sequence.xseq
+2025/04/29 13:23:16.233: Test Unit 4: Load Sequence Sequence.xseq
+2025/04/29 13:23:16.176: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/29 13:23:16.163: Test Unit 2: Load Sequence Sequence.xseq
+2025/04/29 13:23:15.827: Full User Interface: Switch Product 1
+2025/04/29 13:23:15.584: Test Unit 4 initialization succeeded.
+2025/04/29 13:23:15.513: Test Unit 4: Panel shown.
+2025/04/29 13:23:15.279: Test Unit 3 initialization succeeded.
+2025/04/29 13:23:15.195: Test Unit 3: Panel shown.
+2025/04/29 13:23:14.964: Test Unit 2 initialization succeeded.
+2025/04/29 13:23:14.881: Test Unit 2: Panel shown.
+2025/04/29 13:23:14.640: Test Unit 1 initialization succeeded.
+2025/04/29 13:23:14.605: Test Unit 1: All clones have stopped. Proceeding to destroy event references.
+2025/04/29 13:23:14.422: Test Unit 2 Did Stop.
+2025/04/29 13:23:14.409: Test Unit 1 Did Stop.
+2025/04/29 13:21:03.940: Test Unit 1: Will wait until no other clones are running to destroy event references.
+2025/04/29 13:21:03.847: Test Unit 1: Test completed
+2025/04/29 13:21:01.418: Test Unit 2: Test completed
+2025/04/29 13:21:01.403: Test Unit 1: Socket0 Start Test
+2025/04/29 13:21:00.473: Test Unit 2: Socket0 Start Test
+2025/04/29 13:21:00.463: Test Unit 2: Write SN
+2025/04/29 13:20:53.017: Test Unit 1: Write SN
+2025/04/29 13:20:52.952: Test Unit 2: Load Sequence Sequence.xseq
+2025/04/29 13:20:52.940: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/29 13:20:52.625: Full User Interface: Switch Product 1
+2025/04/29 13:20:52.400: Test Unit 2 initialization succeeded.
+2025/04/29 13:20:52.315: Test Unit 2: Panel shown.
+2025/04/29 13:20:51.664: Test Unit 1 initialization succeeded.
+2025/04/29 13:20:51.600: Full User Interface: Panel shown.
+2025/04/29 13:20:51.553: Full User Interface initialization succeeded.
+2025/04/29 13:13:51.565: Full User Interface Did Stop.
+2025/04/29 13:13:10.497: Full User Interface: Exit
+2025/04/29 13:13:10.398: Test Unit 1: Test completed
+2025/04/29 13:13:07.963: Test Unit 2: Test completed
+2025/04/29 13:13:07.951: Test Unit 1: Socket0 Start Test
+2025/04/29 13:13:05.855: Test Unit 2: Socket0 Start Test
+2025/04/29 13:13:05.845: Test Unit 1: Write SN
+2025/04/29 13:13:03.254: Test Unit 2: Write SN
+2025/04/29 13:13:03.239: Test Unit 2: Load Sequence Sequence.xseq
+2025/04/29 13:13:03.227: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/29 13:13:02.877: Full User Interface: Switch Product 1
+2025/04/29 13:13:02.623: Test Unit 2 initialization succeeded.
+2025/04/29 13:13:02.534: Test Unit 2: Panel shown.
+2025/04/29 13:13:01.909: Test Unit 1 initialization succeeded.
+2025/04/29 13:13:01.833: Full User Interface: Panel shown.
+2025/04/29 13:13:01.774: Full User Interface initialization succeeded.
+2025/04/29 13:09:30.907: Full User Interface Did Stop.
+2025/04/29 13:09:30.124: Full User Interface: Exit
+2025/04/29 13:09:30.115: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/29 13:09:30.105: Test Unit 2: Load Sequence Sequence.xseq
+2025/04/29 13:09:29.756: Full User Interface: Switch Product 1
+2025/04/29 13:09:29.505: Test Unit 2 initialization succeeded.
+2025/04/29 13:09:29.420: Test Unit 2: Panel shown.
+2025/04/29 13:09:28.786: Test Unit 1 initialization succeeded.
+2025/04/29 13:09:28.710: Full User Interface: Panel shown.
+2025/04/29 13:09:28.659: Full User Interface initialization succeeded.
+2025/04/29 13:08:22.535: Full User Interface: Exit
+2025/04/29 13:08:22.525: Test Unit 1: SocketT,T
+ Start Test
+2025/04/29 13:08:21.432: Test Unit 2: SocketT,T
+ Start Test
+2025/04/29 13:08:21.421: Test Unit 2: Write SN
+2025/04/29 13:08:11.902: Test Unit 1: Write SN
+2025/04/29 13:08:11.810: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/29 13:08:11.799: Test Unit 2: Load Sequence Sequence.xseq
+2025/04/29 13:08:11.483: Full User Interface: Switch Product 1
+2025/04/29 13:08:11.260: Test Unit 2 initialization succeeded.
+2025/04/29 13:08:11.173: Test Unit 2: Panel shown.
+2025/04/29 13:08:10.939: Test Unit 1 initialization succeeded.
+2025/04/29 13:08:10.886: Test Unit 1: All clones have stopped. Proceeding to destroy event references.
+2025/04/29 13:08:10.746: Test Unit 2 Did Stop.
+2025/04/29 13:08:10.736: Test Unit 1 Did Stop.
+2025/04/29 13:07:10.523: Test Unit 1: Will wait until no other clones are running to destroy event references.
+2025/04/29 13:07:10.480: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/29 13:07:10.470: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/29 13:07:10.149: Full User Interface: Switch Product 1
+2025/04/29 13:07:09.902: Test Unit 2 initialization succeeded.
+2025/04/29 13:07:09.799: Test Unit 2: Panel shown.
+2025/04/29 13:07:08.535: Test Unit 1 initialization succeeded.
+2025/04/29 13:07:08.465: Full User Interface: Panel shown.
+2025/04/29 13:07:08.407: Full User Interface initialization succeeded.
+2025/04/29 09:42:55.721: Full User Interface Did Stop.
+2025/04/29 09:40:56.239: Full User Interface: Exit
+2025/04/29 09:40:56.229: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/29 09:40:56.219: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/29 09:40:55.904: Full User Interface: Switch Product 1
+2025/04/29 09:40:55.671: Test Unit 2 initialization succeeded.
+2025/04/29 09:40:55.574: Test Unit 2: Panel shown.
+2025/04/29 09:40:54.764: Test Unit 1 initialization succeeded.
+2025/04/29 09:40:54.734: Full User Interface: Panel shown.
+2025/04/29 09:40:54.623: Full User Interface initialization succeeded.

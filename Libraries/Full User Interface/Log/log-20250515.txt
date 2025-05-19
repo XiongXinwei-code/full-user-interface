@@ -1,0 +1,67 @@
+2025/05/15 10:38:22.046: Full User Interface Did Stop.
+2025/05/15 10:38:16.303: Full User Interface: Exit
+2025/05/15 10:38:16.292: Test Unit 1: Load Sequence Sequence.xseq
+2025/05/15 10:38:15.975: Full User Interface: Switch Product 1
+2025/05/15 10:38:15.585: Test Unit 1 initialization succeeded.
+2025/05/15 10:38:15.570: Test Unit 1: All clones have stopped. Proceeding to destroy event references.
+2025/05/15 10:38:15.498: Test Unit 1 Did Stop.
+2025/05/15 10:38:15.465: Test Unit 1: Will wait until no other clones are running to destroy event references.
+2025/05/15 10:38:15.378: Test Unit 2 Did Stop.
+2025/05/15 10:38:10.223: Test Unit 3 Did Stop.
+2025/05/15 10:38:10.211: Test Unit 2: Load Sequence Sequence.xseq
+2025/05/15 10:38:10.149: Test Unit 3: Load Sequence Sequence.xseq
+2025/05/15 10:38:10.117: Test Unit 1: Load Sequence Sequence.xseq
+2025/05/15 10:38:09.759: Full User Interface: Switch Product 2
+2025/05/15 10:38:09.340: Test Unit 3 initialization succeeded.
+2025/05/15 10:38:09.241: Test Unit 3: Panel shown.
+2025/05/15 10:38:08.830: Test Unit 2 initialization succeeded.
+2025/05/15 10:38:08.713: Test Unit 2: Panel shown.
+2025/05/15 10:38:08.067: Test Unit 1 initialization succeeded.
+2025/05/15 10:38:08.055: Test Unit 1: All clones have stopped. Proceeding to destroy event references.
+2025/05/15 10:38:08.010: Test Unit 1 Did Stop.
+2025/05/15 10:38:02.556: Test Unit 1: Will wait until no other clones are running to destroy event references.
+2025/05/15 10:38:02.544: Test Unit 1: Load Sequence Sequence.xseq
+2025/05/15 10:38:02.225: Full User Interface: Switch Product 1
+2025/05/15 10:38:01.552: Test Unit 1 initialization succeeded.
+2025/05/15 10:38:01.476: Full User Interface: Panel shown.
+2025/05/15 10:38:01.408: Full User Interface initialization succeeded.
+2025/05/15 10:35:56.940: Full User Interface Did Stop.
+2025/05/15 10:35:53.527: Full User Interface: Exit
+2025/05/15 10:35:53.514: Test Unit 1: Load Sequence Sequence.xseq
+2025/05/15 10:35:53.196: Full User Interface: Switch Product 1
+2025/05/15 10:35:52.840: Test Unit 1 initialization succeeded.
+2025/05/15 10:35:52.642: Test Unit 1: All clones have stopped. Proceeding to destroy event references.
+2025/05/15 10:35:52.619: Test Unit 1 Did Stop.
+2025/05/15 10:35:52.498: Test Unit 1: Will wait until no other clones are running to destroy event references.
+2025/05/15 10:35:52.483: Test Unit 2 Did Stop.
+2025/05/15 10:35:49.470: Test Unit 3 Did Stop.
+2025/05/15 10:35:49.376: Test Unit 2: Load Sequence Sequence.xseq
+2025/05/15 10:35:49.365: Test Unit 3: Load Sequence Sequence.xseq
+2025/05/15 10:35:49.353: Test Unit 1: Load Sequence Sequence.xseq
+2025/05/15 10:35:49.012: Full User Interface: Switch Product 2
+2025/05/15 10:35:48.569: Test Unit 3 initialization succeeded.
+2025/05/15 10:35:48.462: Test Unit 3: Panel shown.
+2025/05/15 10:35:48.021: Test Unit 2 initialization succeeded.
+2025/05/15 10:35:47.900: Test Unit 2: Panel shown.
+2025/05/15 10:35:47.391: Test Unit 1 initialization succeeded.
+2025/05/15 10:35:47.296: Test Unit 1: All clones have stopped. Proceeding to destroy event references.
+2025/05/15 10:35:47.267: Test Unit 1 Did Stop.
+2025/05/15 10:35:45.355: Test Unit 1: Will wait until no other clones are running to destroy event references.
+2025/05/15 10:35:45.343: Test Unit 1: Load Sequence Sequence.xseq
+2025/05/15 10:35:45.031: Full User Interface: Switch Product 1
+2025/05/15 10:35:44.368: Test Unit 1 initialization succeeded.
+2025/05/15 10:35:44.319: Full User Interface: Panel shown.
+2025/05/15 10:35:44.215: Full User Interface initialization succeeded.
+2025/05/15 10:33:08.573: Full User Interface Did Stop.
+2025/05/15 10:32:52.958: Full User Interface: Exit
+2025/05/15 10:32:52.949: Test Unit 1: Load Sequence Sequence.xseq
+2025/05/15 10:32:52.636: Full User Interface: Switch Product 1
+2025/05/15 10:32:52.245: Test Unit 1 initialization succeeded.
+2025/05/15 10:32:52.165: Test Unit 1: All clones have stopped. Proceeding to destroy event references.
+2025/05/15 10:32:52.154: Test Unit 1 Did Stop.
+2025/05/15 10:32:38.475: Test Unit 1: Will wait until no other clones are running to destroy event references.
+2025/05/15 10:32:38.465: Test Unit 1: Load Sequence Sequence.xseq
+2025/05/15 10:32:38.142: Full User Interface: Switch Product 1
+2025/05/15 10:32:36.989: Test Unit 1 initialization succeeded.
+2025/05/15 10:32:36.947: Full User Interface: Panel shown.
+2025/05/15 10:32:36.818: Full User Interface initialization succeeded.

@@ -1,0 +1,204 @@
+2025/04/28 16:33:03.245: Full User Interface Did Stop.
+2025/04/28 16:33:02.459: Full User Interface: Exit
+2025/04/28 16:33:02.441: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 16:33:02.428: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 16:33:02.118: Full User Interface: Switch Product 1
+2025/04/28 16:33:01.901: Test Unit 2 initialization succeeded.
+2025/04/28 16:33:01.806: Test Unit 2: Panel shown.
+2025/04/28 16:33:01.047: Test Unit 1 initialization succeeded.
+2025/04/28 16:33:00.975: Full User Interface: Panel shown.
+2025/04/28 16:33:00.919: Full User Interface initialization succeeded.
+2025/04/28 16:22:01.954: Full User Interface Did Stop.
+2025/04/28 16:21:08.825: Full User Interface: Exit
+2025/04/28 16:21:08.815: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 16:21:08.803: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 16:21:08.487: Full User Interface: Switch Product 1
+2025/04/28 16:21:08.253: Test Unit 2 initialization succeeded.
+2025/04/28 16:21:08.171: Test Unit 2: Panel shown.
+2025/04/28 16:21:07.014: Test Unit 1 initialization succeeded.
+2025/04/28 16:21:06.957: Full User Interface: Panel shown.
+2025/04/28 16:21:06.900: Full User Interface initialization succeeded.
+2025/04/28 12:54:02.280: Full User Interface Did Stop.
+2025/04/28 12:53:51.837: Full User Interface: Exit
+2025/04/28 12:53:39.503: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 12:53:39.489: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 12:53:39.133: Full User Interface: Switch Product 1
+2025/04/28 12:53:38.838: Test Unit 2 initialization succeeded.
+2025/04/28 12:53:38.696: Test Unit 2: Panel shown.
+2025/04/28 12:53:37.413: Test Unit 1 initialization succeeded.
+2025/04/28 12:53:37.355: Full User Interface: Panel shown.
+2025/04/28 12:53:37.140: Full User Interface initialization succeeded.
+2025/04/28 11:12:52.829: Full User Interface Did Stop.
+2025/04/28 11:12:40.709: Full User Interface: Exit
+2025/04/28 11:12:40.645: Test Unit 2: Test completed
+2025/04/28 11:12:40.581: Test Unit 3: Test completed
+2025/04/28 11:12:40.415: Test Unit 2: Test completed
+2025/04/28 11:12:40.321: Test Unit 1: Test completed
+2025/04/28 11:12:40.278: Test Unit 1: Test completed
+2025/04/28 11:12:37.737: Test Unit 3: Test completed
+2025/04/28 11:12:37.708: Test Unit 2: SocketT,T
+ Start Test
+2025/04/28 11:12:37.673: Test Unit 1: SocketT,T
+ Start Test
+2025/04/28 11:12:32.014: Test Unit 3: SocketT,T
+ Start Test
+2025/04/28 11:12:32.003: Test Unit 3: Test completed
+2025/04/28 11:12:31.864: Test Unit 1: Test completed
+2025/04/28 11:12:31.754: Test Unit 2: Test completed
+2025/04/28 11:12:31.585: Test Unit 3: Test completed
+2025/04/28 11:12:31.479: Test Unit 2: Test completed
+2025/04/28 11:12:28.991: Test Unit 1: Test completed
+2025/04/28 11:12:28.936: Test Unit 1: SocketT,T
+ Start Test
+2025/04/28 11:12:28.926: Test Unit 2: SocketT,T
+ Start Test
+2025/04/28 11:12:27.815: Test Unit 3: SocketT,T
+ Start Test
+2025/04/28 11:12:27.805: Test Unit 1: Write SN
+2025/04/28 11:12:27.793: Test Unit 2: Write SN
+2025/04/28 11:12:22.917: Test Unit 3: Write SN
+2025/04/28 11:12:22.827: Test Unit 3: Load Sequence Sequence.xseq
+2025/04/28 11:12:22.815: Test Unit 2: Load Sequence Sequence.xseq
+2025/04/28 11:12:22.803: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 11:12:22.463: Full User Interface: Switch Product 2
+2025/04/28 11:12:22.007: Test Unit 3 initialization succeeded.
+2025/04/28 11:12:21.918: Test Unit 3: Panel shown.
+2025/04/28 11:12:21.485: Test Unit 2 initialization succeeded.
+2025/04/28 11:12:21.361: Test Unit 2: Panel shown.
+2025/04/28 11:12:20.859: Test Unit 1 initialization succeeded.
+2025/04/28 11:12:20.761: Test Unit 1: All clones have stopped. Proceeding to destroy event references.
+2025/04/28 11:12:20.621: Test Unit 2 Did Stop.
+2025/04/28 11:12:20.611: Test Unit 1 Did Stop.
+2025/04/28 11:12:16.741: Test Unit 1: Will wait until no other clones are running to destroy event references.
+2025/04/28 11:12:16.729: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 11:12:16.719: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 11:12:16.392: Full User Interface: Switch Product 1
+2025/04/28 11:12:16.157: Test Unit 2 initialization succeeded.
+2025/04/28 11:12:16.050: Test Unit 2: Panel shown.
+2025/04/28 11:12:14.825: Test Unit 1 initialization succeeded.
+2025/04/28 11:12:14.762: Full User Interface: Panel shown.
+2025/04/28 11:12:14.628: Full User Interface initialization succeeded.
+2025/04/28 10:58:17.546: Full User Interface Did Stop.
+2025/04/28 10:56:40.770: Full User Interface: Exit
+2025/04/28 10:56:40.759: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 10:56:40.747: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 10:56:40.430: Full User Interface: Switch Product 1
+2025/04/28 10:56:40.213: Test Unit 2 initialization succeeded.
+2025/04/28 10:56:40.101: Test Unit 2: Panel shown.
+2025/04/28 10:56:39.445: Test Unit 1 initialization succeeded.
+2025/04/28 10:56:39.390: Test Unit 1: All clones have stopped. Proceeding to destroy event references.
+2025/04/28 10:56:39.378: Test Unit 3 Did Stop.
+2025/04/28 10:56:39.268: Test Unit 2 Did Stop.
+2025/04/28 10:56:39.253: Test Unit 1 Did Stop.
+2025/04/28 10:56:26.639: Test Unit 1: Will wait until no other clones are running to destroy event references.
+2025/04/28 10:56:26.555: Test Unit 2: Load Sequence Sequence.xseq
+2025/04/28 10:56:26.543: Test Unit 3: Load Sequence Sequence.xseq
+2025/04/28 10:56:26.532: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 10:56:26.169: Full User Interface: Switch Product 2
+2025/04/28 10:56:25.738: Test Unit 3 initialization succeeded.
+2025/04/28 10:56:25.624: Test Unit 3: Panel shown.
+2025/04/28 10:56:25.193: Test Unit 2 initialization succeeded.
+2025/04/28 10:56:25.097: Test Unit 2: Panel shown.
+2025/04/28 10:56:24.512: Test Unit 1 initialization succeeded.
+2025/04/28 10:56:24.455: Test Unit 1: All clones have stopped. Proceeding to destroy event references.
+2025/04/28 10:56:24.411: Test Unit 1 Did Stop.
+2025/04/28 10:56:24.363: Test Unit 1: Will wait until no other clones are running to destroy event references.
+2025/04/28 10:56:21.556: Test Unit 2 Did Stop.
+2025/04/28 10:56:21.544: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 10:56:21.533: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 10:56:21.220: Full User Interface: Switch Product 1
+2025/04/28 10:56:20.991: Test Unit 2 initialization succeeded.
+2025/04/28 10:56:20.876: Test Unit 2: Panel shown.
+2025/04/28 10:56:19.964: Test Unit 1 initialization succeeded.
+2025/04/28 10:56:19.849: Full User Interface: Panel shown.
+2025/04/28 10:56:19.804: Full User Interface initialization succeeded.
+2025/04/28 10:55:41.428: Full User Interface Did Stop.
+2025/04/28 10:55:14.263: Full User Interface: Exit
+2025/04/28 10:55:14.253: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 10:55:14.240: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 10:55:13.925: Full User Interface: Switch Product 1
+2025/04/28 10:55:13.679: Test Unit 2 initialization succeeded.
+2025/04/28 10:55:13.568: Test Unit 2: Panel shown.
+2025/04/28 10:55:12.681: Test Unit 1 initialization succeeded.
+2025/04/28 10:55:12.609: Full User Interface: Panel shown.
+2025/04/28 10:55:12.471: Full User Interface initialization succeeded.
+2025/04/28 10:43:12.353: Full User Interface Did Stop.
+2025/04/28 10:43:02.659: Full User Interface: Exit
+2025/04/28 10:42:50.786: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 10:42:50.775: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 10:42:50.459: Full User Interface: Switch Product 1
+2025/04/28 10:42:50.212: Test Unit 2 initialization succeeded.
+2025/04/28 10:42:50.109: Test Unit 2: Panel shown.
+2025/04/28 10:42:49.237: Test Unit 1 initialization succeeded.
+2025/04/28 10:42:49.145: Full User Interface: Panel shown.
+2025/04/28 10:42:49.085: Full User Interface initialization succeeded.
+2025/04/28 10:42:01.619: Full User Interface Did Stop.
+2025/04/28 10:32:53.656: Full User Interface: Exit
+2025/04/28 10:32:53.595: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 10:32:53.583: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 10:32:53.236: Full User Interface: Switch Product 1
+2025/04/28 10:32:52.985: Test Unit 2 initialization succeeded.
+2025/04/28 10:32:52.887: Test Unit 2: Panel shown.
+2025/04/28 10:32:51.953: Test Unit 1 initialization succeeded.
+2025/04/28 10:32:51.921: Full User Interface: Panel shown.
+2025/04/28 10:32:51.791: Full User Interface initialization succeeded.
+2025/04/28 10:09:51.911: Full User Interface Did Stop.
+2025/04/28 09:54:37.235: Full User Interface: Exit
+2025/04/28 09:54:37.223: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 09:54:37.209: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 09:54:36.891: Full User Interface: Switch Product 1
+2025/04/28 09:54:36.667: Test Unit 2 initialization succeeded.
+2025/04/28 09:54:36.561: Test Unit 2: Panel shown.
+2025/04/28 09:54:35.710: Test Unit 1 initialization succeeded.
+2025/04/28 09:54:35.642: Full User Interface: Panel shown.
+2025/04/28 09:54:35.587: Full User Interface initialization succeeded.
+2025/04/28 09:53:28.895: Full User Interface Did Stop.
+2025/04/28 09:50:23.782: Full User Interface: Exit
+2025/04/28 09:50:23.770: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 09:50:23.758: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 09:50:23.443: Full User Interface: Switch Product 1
+2025/04/28 09:50:23.221: Test Unit 2 initialization succeeded.
+2025/04/28 09:50:23.109: Test Unit 2: Panel shown.
+2025/04/28 09:50:22.250: Test Unit 1 initialization succeeded.
+2025/04/28 09:50:22.216: Full User Interface: Panel shown.
+2025/04/28 09:50:22.102: Full User Interface initialization succeeded.
+2025/04/28 09:45:27.126: Full User Interface Did Stop.
+2025/04/28 09:44:32.773: Full User Interface: Exit
+2025/04/28 09:44:32.761: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 09:44:32.750: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 09:44:32.446: Full User Interface: Switch Product 1
+2025/04/28 09:44:32.222: Test Unit 2 initialization succeeded.
+2025/04/28 09:44:32.113: Test Unit 2: Panel shown.
+2025/04/28 09:44:31.279: Test Unit 1 initialization succeeded.
+2025/04/28 09:44:31.205: Full User Interface: Panel shown.
+2025/04/28 09:44:31.151: Full User Interface initialization succeeded.
+2025/04/28 09:40:15.752: Full User Interface Did Stop.
+2025/04/28 09:40:14.645: Full User Interface: Exit
+2025/04/28 09:40:14.634: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 09:40:14.623: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 09:40:14.308: Full User Interface: Switch Product 1
+2025/04/28 09:40:14.080: Test Unit 2 initialization succeeded.
+2025/04/28 09:40:13.984: Test Unit 2: Panel shown.
+2025/04/28 09:40:13.164: Test Unit 1 initialization succeeded.
+2025/04/28 09:40:13.122: Full User Interface: Panel shown.
+2025/04/28 09:40:13.031: Full User Interface initialization succeeded.
+2025/04/28 09:37:05.268: Full User Interface Did Stop.
+2025/04/28 09:35:43.847: Full User Interface: Exit
+2025/04/28 09:35:43.837: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 09:35:43.828: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 09:35:43.515: Full User Interface: Switch Product 1
+2025/04/28 09:35:43.299: Test Unit 2 initialization succeeded.
+2025/04/28 09:35:43.195: Test Unit 2: Panel shown.
+2025/04/28 09:35:42.394: Test Unit 1 initialization succeeded.
+2025/04/28 09:35:42.329: Full User Interface: Panel shown.
+2025/04/28 09:35:42.279: Full User Interface initialization succeeded.
+2025/04/28 09:27:18.218: Full User Interface Did Stop.
+2025/04/28 09:20:48.242: Full User Interface: Exit
+2025/04/28 09:20:48.234: Test Unit 2: Load Sequence Sensata.xseq
+2025/04/28 09:20:48.224: Test Unit 1: Load Sequence Sequence.xseq
+2025/04/28 09:20:47.905: Full User Interface: Switch Product 1
+2025/04/28 09:20:47.680: Test Unit 2 initialization succeeded.
+2025/04/28 09:20:47.579: Test Unit 2: Panel shown.
+2025/04/28 09:20:46.300: Test Unit 1 initialization succeeded.
+2025/04/28 09:20:46.238: Full User Interface: Panel shown.
+2025/04/28 09:20:46.142: Full User Interface initialization succeeded.
