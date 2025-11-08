@@ -1,0 +1,21 @@
+2025/10/10 17:28:53.228: Full User Interface Did Stop.
+2025/10/10 17:28:19.959: Full User Interface: Exit
+2025/10/10 17:27:52.379: Test Unit 1: Test completed
+2025/10/10 17:27:47.999: Test Unit 1: Socket0 Start Test
+2025/10/10 17:27:47.988: Test Unit 1: Load Sequence Sequence.xseq
+2025/10/10 17:27:47.647: Full User Interface: Switch Product CCCC
+2025/10/10 17:27:46.837: Test Unit 1 initialization succeeded.
+2025/10/10 17:27:46.824: Test Unit 1: All clones have stopped. Proceeding to destroy event references.
+2025/10/10 17:27:46.803: Test Unit 1 Did Stop.
+2025/10/10 17:27:46.788: Test Unit 1: Will wait until no other clones are running to destroy event references.
+2025/10/10 17:23:17.107: Test Unit 2 Did Stop.
+2025/10/10 17:23:17.095: Test Unit 2: Error 7 occurred at Test Executive.lvlibp:Test Executive Manage.lvclass:Load Sequence.vi:840001    Possible reason(s):   LabVIEW: (Hex 0x7) 文件未找到。文件位置移动或文件被删除。使用命令提示符或文件浏览器，验证路径是否正确。 ========================= 不存在的GPIB接口。    Complete call chain:       Test Executive.lvlibp:Test Executive Manage.lvclass:Load Sequence.vi:840001       Test Executive(API).lvlib:Load Sequence.vi       Test Unit.lvlib:Main.vi:4140008       Test Unit.lvlib:Main.vi.ACBRProxyCaller.C7F00034<DQMH>MHL Frame: Load Sequence</DQMH> Additional Information: MHL Frame: Load Sequence
+2025/10/10 17:23:15.131: Test Unit 1: Error 7 occurred at Test Executive.lvlibp:Test Executive Manage.lvclass:Load Sequence.vi:840001    Possible reason(s):   LabVIEW: (Hex 0x7) 文件未找到。文件位置移动或文件被删除。使用命令提示符或文件浏览器，验证路径是否正确。 ========================= 不存在的GPIB接口。    Complete call chain:       Test Executive.lvlibp:Test Executive Manage.lvclass:Load Sequence.vi:840001       Test Executive(API).lvlib:Load Sequence.vi       Test Unit.lvlib:Main.vi:4140009       Test Unit.lvlib:Main.vi.ACBRProxyCaller.C7F00034<DQMH>MHL Frame: Load Sequence</DQMH> Additional Information: MHL Frame: Load Sequence
+2025/10/10 17:23:15.121: Test Unit 2: Load Sequence Sequence1.xseq
+2025/10/10 17:23:15.112: Test Unit 1: Load Sequence Sequence.xseq
+2025/10/10 17:23:14.794: Full User Interface: Switch Product CCCC
+2025/10/10 17:23:14.594: Test Unit 2 initialization succeeded.
+2025/10/10 17:23:14.517: Test Unit 2: Panel shown.
+2025/10/10 17:23:13.503: Test Unit 1 initialization succeeded.
+2025/10/10 17:23:13.476: Full User Interface: Panel shown.
+2025/10/10 17:23:13.416: Full User Interface initialization succeeded.
