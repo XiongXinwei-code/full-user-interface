@@ -29,6 +29,7 @@
 				<Item Name="Set Variable Argument--cluster.ctl" Type="VI" URL="../Set Variable Argument--cluster.ctl"/>
 				<Item Name="Get Variable Argument--cluster.ctl" Type="VI" URL="../Get Variable Argument--cluster.ctl"/>
 				<Item Name="Get Variable (Reply Payload)--cluster.ctl" Type="VI" URL="../Get Variable (Reply Payload)--cluster.ctl"/>
+				<Item Name="LanguageChanged Argument--cluster.ctl" Type="VI" URL="../LanguageChanged Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -42,6 +43,7 @@
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="TitleWindows.vi" Type="VI" URL="../TitleWindows.vi"/>
+			<Item Name="LanguageChanged.vi" Type="VI" URL="../LanguageChanged.vi"/>
 		</Item>
 		<Item Name="Engine" Type="Folder">
 			<Item Name="Cofiguration.vi" Type="VI" URL="../Cofiguration.vi"/>
@@ -152,6 +154,8 @@
 			<Item Name="RunModelList.vi" Type="VI" URL="../RunModelList.vi"/>
 			<Item Name="Call Interface.vi" Type="VI" URL="../Call Interface.vi"/>
 			<Item Name="Set Parent(MDI).vi" Type="VI" URL="../Set Parent(MDI).vi"/>
+			<Item Name="2D to 1D.vi" Type="VI" URL="../2D to 1D.vi"/>
+			<Item Name="AppendResult.vi" Type="VI" URL="../AppendResult.vi"/>
 		</Item>
 		<Item Name="Interface.vi" Type="VI" URL="../Interface.vi"/>
 	</Item>

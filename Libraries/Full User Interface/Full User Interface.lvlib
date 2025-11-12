@@ -71,12 +71,26 @@
 		<Item Name="Obtain Request Events.vi" Type="VI" URL="../Obtain Request Events.vi"/>
 		<Item Name="Destroy Request Events.vi" Type="VI" URL="../Destroy Request Events.vi"/>
 	</Item>
+	<Item Name="Methods" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Item Name="Build Menu.vi" Type="VI" URL="../Build Menu.vi"/>
+		<Item Name="Get language tag.vi" Type="VI" URL="../Get language tag.vi"/>
+		<Item Name="Launch Test Unit.vi" Type="VI" URL="../Launch Test Unit.vi"/>
+		<Item Name="Login.vi" Type="VI" URL="../Login.vi"/>
+		<Item Name="Logout.vi" Type="VI" URL="../Logout.vi"/>
+		<Item Name="Read Tag.vi" Type="VI" URL="../Read Tag.vi"/>
+		<Item Name="ReBuild Menu.vi" Type="VI" URL="../ReBuild Menu.vi"/>
+		<Item Name="Select Config.vi" Type="VI" URL="../Select Config.vi"/>
+		<Item Name="Set Run State Windows Pos.vi" Type="VI" URL="../Set Run State Windows Pos.vi"/>
+		<Item Name="Title.vi" Type="VI" URL="../Title.vi"/>
+		<Item Name="Write Tag.vi" Type="VI" URL="../Write Tag.vi"/>
+		<Item Name="Get Config.vi" Type="VI" URL="../Get Config.vi"/>
+	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Config" Type="Folder">
 			<Item Name="Config.vi" Type="VI" URL="../Config.vi"/>
-			<Item Name="Get Config.vi" Type="VI" URL="../Get Config.vi"/>
 			<Item Name="Set Config.vi" Type="VI" URL="../Set Config.vi"/>
 		</Item>
 		<Item Name="Constants" Type="Folder">
@@ -96,19 +110,6 @@
 			<Item Name="Hide VI Panel.vi" Type="VI" URL="../Hide VI Panel.vi"/>
 			<Item Name="Init Module.vi" Type="VI" URL="../Init Module.vi"/>
 			<Item Name="Open VI Panel.vi" Type="VI" URL="../Open VI Panel.vi"/>
-		</Item>
-		<Item Name="Methods" Type="Folder">
-			<Item Name="Build Menu.vi" Type="VI" URL="../Build Menu.vi"/>
-			<Item Name="Get language tag.vi" Type="VI" URL="../Get language tag.vi"/>
-			<Item Name="Launch Test Unit.vi" Type="VI" URL="../Launch Test Unit.vi"/>
-			<Item Name="Login.vi" Type="VI" URL="../Login.vi"/>
-			<Item Name="Logout.vi" Type="VI" URL="../Logout.vi"/>
-			<Item Name="Read Tag.vi" Type="VI" URL="../Read Tag.vi"/>
-			<Item Name="ReBuild Menu.vi" Type="VI" URL="../ReBuild Menu.vi"/>
-			<Item Name="Select Config.vi" Type="VI" URL="../Select Config.vi"/>
-			<Item Name="Set Run State Windows Pos.vi" Type="VI" URL="../Set Run State Windows Pos.vi"/>
-			<Item Name="Title.vi" Type="VI" URL="../Title.vi"/>
-			<Item Name="Write Tag.vi" Type="VI" URL="../Write Tag.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="Key.ctl" Type="VI" URL="../Key.ctl"/>
